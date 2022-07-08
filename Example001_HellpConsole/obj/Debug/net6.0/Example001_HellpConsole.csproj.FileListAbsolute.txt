@@ -1,0 +1,15 @@
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.exe
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.deps.json
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.runtimeconfig.json
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.dll
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\bin\Debug\net6.0\Example001_HellpConsole.pdb
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.AssemblyInfo.cs
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.dll
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\refint\Example001_HellpConsole.dll
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.pdb
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\Example001_HellpConsole.genruntimeconfig.cache
+C:\Users\777\Desktop\Задание GB\Examples\Example001_HellpConsole\obj\Debug\net6.0\ref\Example001_HellpConsole.dll
